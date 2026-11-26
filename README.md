@@ -18,7 +18,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of Superst
 - **Interactive Slicers:** Dynamic filtering by **Year**, **Country**, and **Region**.
 
 ## 📸 Dashboard Preview
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](SUPERSTORE.png)
 
 ## 📂 Files in this Repository
 - `Superstore_Sales_Dashboard.pbix` – Complete Power BI source file.
